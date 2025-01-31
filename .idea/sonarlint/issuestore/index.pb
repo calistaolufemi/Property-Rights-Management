@@ -9,3 +9,5 @@ R
 "contracts/licensing-agreement.clar,7/3/7390d4aa524809d764ff3729598d235d1371e019
 Q
 !tests/licensing-agreement.test.ts,b/8/b8d53a20d5e0a22ec24dfee6953749c87cd26539
+K
+contracts/research-nft.clar,9/e/9efb827f6dc50ca72f0f8fa01ece6ede96439a07
