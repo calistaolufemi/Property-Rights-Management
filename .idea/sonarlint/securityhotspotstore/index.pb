@@ -5,3 +5,5 @@ P
  contracts/research-registry.clar,3/7/37bdb7d9e07ab5634f24d355de724b0e9640ac45
 O
 tests/research-registry.test.ts,3/6/3675455e58faea3445f7430861b922424caf9286
+R
+"contracts/licensing-agreement.clar,7/3/7390d4aa524809d764ff3729598d235d1371e019
