@@ -7,3 +7,5 @@ O
 tests/research-registry.test.ts,3/6/3675455e58faea3445f7430861b922424caf9286
 R
 "contracts/licensing-agreement.clar,7/3/7390d4aa524809d764ff3729598d235d1371e019
+Q
+!tests/licensing-agreement.test.ts,b/8/b8d53a20d5e0a22ec24dfee6953749c87cd26539
